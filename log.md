@@ -8,23 +8,15 @@
 
 **Link to work:** [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G) & [My GitHub repo](https://github.com/SpookyUmi/url_shortening_frontendmentor)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 01: April 18, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I learnt different ways to write a function in JS (thanks to Wes Bos beginner javascript course). Also continued my Frontend Mentor challenge and took a little time to rest !
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I'm sure JS will become more complex day after day, but I love it and I feel so thrilled to begin to learn that language !
 
 
-### Day 1: June 27, Monday
+### Day 02: April 19, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I wasn't really productive but I continued the Frontend mentor challenge. I worked on the responsive part and especially on a grid item using `grid-template-columns` and `grid-template-rows` properties.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
- -->
+**Thoughts**: I felt a bit guilty to take a break but I made up my mind : It can be benefit sometime ! And my motivation to code and to learn more and more isn't gone at all, I really enjoy this journey.
