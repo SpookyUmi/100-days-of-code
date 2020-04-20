@@ -20,3 +20,12 @@
 **Today's Progress**: I wasn't really productive but I continued the Frontend mentor challenge. I worked on the responsive part and especially on a grid item using `grid-template-columns` and `grid-template-rows` properties.
 
 **Thoughts**: I felt a bit guilty to take a break but I made up my mind : It can be benefit sometime ! And my motivation to code and to learn more and more isn't gone at all, I really enjoy this journey.
+
+
+### Day 03: April 20, 2020
+
+**Today's Progress**: 2 major news :
+- I learnt how to use the debugger through Firefox devtools (thanks to Wes Bos' JS beginner course)
+- I also improved my CSS skills using an association of CSSgrid and Flexbox for my <!-- almost finished --> Frontend Mentor challenge, to organize the `.topar`, `.form` and `.footer`. Also used for the first time `last-of-type`, `nth-child` and `first-of-type` properties. I tried many configurations and searched on MDN to be sure, and I finally found how to use it properly.
+
+**Thoughts**: I was more productive today and almost finished my challenge, so I felt really good ! Surprisingly, mondays can be pleasant.
