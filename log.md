@@ -29,3 +29,12 @@
 - I also improved my CSS skills using an association of CSSgrid and Flexbox for my <!-- almost finished --> Frontend Mentor challenge, to organize the `.topar`, `.form` and `.footer`. Also used for the first time `last-of-type`, `nth-child` and `first-of-type` properties. I tried many configurations and searched on MDN to be sure, and I finally found how to use it properly.
 
 **Thoughts**: I was more productive today and almost finished my challenge, so I felt really good ! Surprisingly, mondays can be pleasant.
+
+
+### Day 04: April 21, 2020
+
+**Today's Progress**: Finished my Frontend Mentor challenge !! So satisfied. The JS part isn't ready yet, I'm still learning, it'll be set up in a few weeks.
+
+**Thoughts**: I feel satisfied and happy of this challenge's result. I worked hard on it and it allowed me to train my HTML and CSS skills. I'm still learning CSSgrid but I already used some of its properties.
+
+**Link to work:** [The Challenge](https://url-shortening-frontend-mentor-without-js.netlify.app/)
