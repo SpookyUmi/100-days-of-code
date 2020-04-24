@@ -38,3 +38,17 @@
 **Thoughts**: I feel satisfied and happy of this challenge's result. I worked hard on it and it allowed me to train my HTML and CSS skills. I'm still learning CSSgrid but I already used some of its properties.
 
 **Link to work:** [The Challenge](https://url-shortening-frontend-mentor-without-js.netlify.app/)
+
+
+### Day 05: April 22, 2020
+
+**Today's Progress**: Jumped right into a new Frontend Mentor challenge just to practice with a CSS framework : Bootstrap. I also continue my JS course.
+
+**Thoughts**: I must say that I'm not a huge fan of Bootstrap, I find it really limited, but it's necessary to know how to work with such a famous tool.
+
+
+### Day 06: April 23, 2020
+
+**Today's Progress**: Pursuing my Frontend Mentor challenge with bootstrap and struggling hard with it... CSS vanilla miss me ! Also pursuing my JS course and love it ! I reached module #4 of Wes Bos' course, which introduces the DOM.
+
+**Thoughts**: I'm happy to learn JS and I'm starting to see all the possibilities that this language offers.
