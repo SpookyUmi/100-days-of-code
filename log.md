@@ -52,3 +52,24 @@
 **Today's Progress**: Pursuing my Frontend Mentor challenge with bootstrap and struggling hard with it... CSS vanilla miss me ! Also pursuing my JS course and love it ! I reached module #4 of Wes Bos' course, which introduces the DOM.
 
 **Thoughts**: I'm happy to learn JS and I'm starting to see all the possibilities that this language offers.
+
+
+### Day 07: April 24, 2020
+
+**Today's Progress**: i'm starting to really understand the DOM and how to interact with it. Also went for an inline skating session and worked on my bootstrap challenge.
+
+**Thoughts**: I was glad to find some time to do sport.
+
+
+### Day 08: April 25, 2020
+
+**Today's Progress**: Did Wes Bos' JS DOM cardio exercise and struggled a lot, I wasn't in a good mood. But I almost succeed the challenge and finished the exercise !
+
+**Thoughts**: I found the exercise interesting but also difficult. Took more time to relax today.
+
+
+### Day 09: April 26, 2020
+
+**Today's Progress**: Pursuing Wes Bos' CSSgrid course.
+
+**Thoughts**: It's sunday ! I took time to inline skate and to draw.
