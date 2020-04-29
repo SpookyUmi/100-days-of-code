@@ -73,3 +73,17 @@
 **Today's Progress**: Pursuing Wes Bos' CSSgrid course.
 
 **Thoughts**: It's sunday ! I took time to inline skate and to draw.
+
+
+### Day 10: April 27, 2020
+
+**Today's Progress**: Finally finished my bootstrap challenge !
+
+**Thoughts**: I really prefer CSS vanilla than Bootstrap which is too limited.
+
+
+### Day 11: April 26, 2020
+
+**Today's Progress**: Pursued Wes Bos' JS course and started the Javascript30 challenge. I made the first exercise, the Drum Kit, and completed it with help and researches.
+
+**Thoughts**: It was a rough day, honestly. I cried so much on this exercise ! But I had reassurance from my love one and I made it. I was fully satisfied at the end of the day.
