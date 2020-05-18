@@ -102,8 +102,63 @@
 
 **Thoughts**: I was half anxious half excited to begin my path on the "finding a school" journey, but I'm confident, I learnt hard on these two last months.
 
+
 ### Day 14: May 1, 2020
 
 **Today's Progress**: Took more time to relax today. Played Animal Crossing and finished Wes Bos' canvas. I also started the third challenge of Javascript30. But most importantly, I did the tests to enter O'clock school. I hope I'll get pick !
 
 **Thoughts**: Chilling is really necessary sometimes !
+
+
+### Days 15 & 16 : May 2, 3, 2020
+
+**Today's Progress**: Finished the third challenge of Javascript30 !
+
+**Thoughts**: Felt unproductive this weekend.
+
+
+### Day 17 : May 4, 2020
+
+**Today's Progress**: Today I started the fourth challenge of Javascript30, which consists in adding a class to an element using a toggle method and a 'click' event listener.
+
+**Thoughts**: Felt good, a normal day.
+
+
+### Day 18: May 5, 2020
+
+**Today's Progress**: Continuing my JS course and took time to draw today.
+
+
+### Days 19, 20 & 21 : May 6, 7, 8 2020
+
+**Today's Progress**: I had to spend time dealing with other stuff these last days, creating a motivation video for O'clock school ! but I continue to learn JS and I'm writing a new blog article! Also trying to draw myself an avatar haha.
+
+**Thoughts**: Felt a bit stressed and excited these days.
+
+
+### Days 22, 23, 24 : May 9, 10, 11 2020
+
+**Today's Progress**: Tried to work on my code but felt too stressed and demotivated.
+
+**Thoughts**: Do you sometimes feel sad when someone says "don't compare yourself to other", but that same person code like a god, is a good drawer, a good singer, etc... ? I guess those past few days were bad days for me...
+
+
+### Days 25, 26, 27 : May 12, 13, 14 2020
+
+**Today's Progress**: Finally remotivated ! Started reading Refactoring UI by Steve Schoger & Adam Wathan. Also continue JS learning, I'll soon start Logic and Flow control. I also wrote a new article on my blog about Responsive design.
+
+**Thoughts**: Some members of the dev community remotivated me. This community is very welcoming and nice !
+
+
+### Days 28, 29, 30 : May 15, 16, 17 2020
+
+**Today's Progress**: Dealing with administrative stuff again, and drew myself a new avatar ! Also continuing my Frontend Mentor challenge and my JS learning !
+
+**Thoughts**: An other weekend which was not really productive. Feel a bit stressed because I don't know if I'll get a financial support to go to O'clock.
+
+
+### Day 31 : May 18, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
